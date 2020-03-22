@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "可恶啊"
+date:   2020-03-23 00:16:29 +0800
+categories: jekyll update
+---  
+
+我弄了一个下午了，遇到好多困难，我要口吐芬芳了！冷静冷静，一会儿就可以睡觉了！
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
