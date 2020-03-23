@@ -21,13 +21,13 @@
 title: Hi~ o(*￣▽￣*)ブ
 email: 1907119320@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  阳光很好
+  你过安检必响，你个铁憨憨！
 baseurl: "/fanmi.github.io" # the subpath of your site, e.g. /blog
 url: "https://123fzq.github.io/fanmi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  123fzq
 
-# Build settings
+# Build settings:stuck_out_tongue_winking_eye:
 theme: minima
 plugins:
   - jekyll-feed  
