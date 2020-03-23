@@ -7,7 +7,7 @@ categories: jekyll update
 
 我弄了一个下午了，遇到好多困难，我要口吐芬芳了！冷静冷静，一会儿就可以睡觉了！:sun_with_face:  
 我靠，为什么还是404，为什么还是找不到，我的url明明都改了，不是都改成一样的了吗!:anger: ?  
-
+:smile: :joy::anger: :sheep::cow::horse::snake::bird::bug:
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
