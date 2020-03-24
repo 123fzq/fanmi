@@ -10,7 +10,11 @@ categories: jekyll update
 :smile: :joy::anger: :sheep::cow::horse::snake::bird::bug:  
 :boom:  
 <font color=red size=72>颜色</font>  
-<table><tr><td bgcolor=yellow>背景色yellow</td></tr></table>
+<table><tr><td bgcolor=yellow>背景色yellow</td></tr></table>  
+<font color="red">这里是红色</font>  
+<div style="color:blue">这里是蓝色</div>  
+<strong style="background:yellow">背景色yellow<>
+
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
